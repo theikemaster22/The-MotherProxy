@@ -13,7 +13,7 @@ To use this product, open the attached HTML file which will lead you to Doge Unb
 
 # Demo
 
-If you wish to use the demo, go to the attached google site, while it isn't invisible(because the site isnt directly a file) it is likely to not by blocked because it is on google.com. This dosen't mean that the demo is untouchable it just means that unless anyone in your supervised group has used it and gotten it blocked, it won't already be.
+If you wish to use the demo, go to the attached google site, while it isn't invisible(because the site isnt directly a file) it is likely to not be blocked because it is on google.com. This dosen't mean that the demo is untouchable it just means that unless anyone in your supervised group has used it and gotten it blocked, it won't already be.
 
 https://sites.google.com/view/the-motherload
 
