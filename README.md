@@ -11,6 +11,10 @@ This tool uses and HTML file embeding Doge Unblocker with Iframe to make what th
 
 To use this product, open the attached HTML file which will lead you to Doge Unblocker, Then, you can type in the search bar similar to how someone would with google, or you can directly type a url to go to a website. In the top right you can find categorys for quickly accesing games or sources, along with customize some things about Doge.
 
+Please note: if you shortcut/input these games into a domain/website/url it will become blockable, the most important factor making these games unblockable is the fact that they are files and not websites.
+
+If you wish to find a way to put these files onto a different device, I suggest putting the files on a google drive so that it is easy to download.
+
 # Demo
 
 If you wish to use the demo, go to the attached google site, while it isn't invisible(because the site isnt directly a file) it is likely to not be blocked because it is on google.com. This dosen't mean that the demo is untouchable it just means that unless anyone in your supervised group has used it and gotten it blocked, it won't already be.
